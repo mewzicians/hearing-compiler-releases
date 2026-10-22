@@ -4,6 +4,9 @@ This repository publishes built copies of the Judiciary Hearing Compiler
 prototype for Apple Silicon Macs (M1 or later). It contains app builds only. No
 hearing recordings, transcripts or notes are stored here.
 
+How the app works, how it was evaluated on real public hearings, and its code:
+see the [case study](https://github.com/mewzicians/hearing-compiler-case-study).
+
 ## First install
 
 1. Open the [latest release](../../releases/latest) and download
